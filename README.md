@@ -9,6 +9,6 @@ In questo progetto vengono illustrate ed utilizzate le principali metodologie di
  - Regressione lineare;
  - Clusterizzazione: K-means;
  - Classificazione tramite: Logistic Regression, Naive Bayes, LDA, QDA, SVM, alberi decisionali, foreste di alberi, K-NN, rete neurale;
- - Metologie ensemble;
+ - Metodologie ensemble;
  - Cross-validation dei modelli generati.
  
