@@ -8,6 +8,7 @@ In questo progetto vengono illustrate ed utilizzate le principali metodologie di
  - Riduzione delle dimensionalità: tramite PCA e LDA;
  - Regressione lineare;
  - Clusterizzazione: K-means;
- - Classificazione tramite: Logistic Regression, Naive Bayes, LDA, QDA, SVM, alberi decisionali, foreste di alberi, K-NN, rete neurale.
+ - Classificazione tramite: Logistic Regression, Naive Bayes, LDA, QDA, SVM, alberi decisionali, foreste di alberi, K-NN, rete neurale;
+ - Metologie ensemble;
  - Cross-validation dei modelli generati.
  
