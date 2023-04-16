@@ -1,4 +1,4 @@
-# fondamenti-analisi-dati-data-science-
+# Foundations of Data Analysis for Data Science.
 
 This project illustrates and utilizes the main data analysis methodologies to analyze and infer about a company's customers, in order to understand which customers spend more and which spend less, and thus, determine which advertisements and promotions to forward to which customers.
 
